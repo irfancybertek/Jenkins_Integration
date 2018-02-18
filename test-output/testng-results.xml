@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8113" started-at="2018-02-18T20:19:04Z" finished-at="2018-02-18T20:19:12Z">
+  <suite name="Suite" duration-ms="8003" started-at="2018-02-18T21:36:11Z" finished-at="2018-02-18T21:36:19Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8113" started-at="2018-02-18T20:19:04Z" finished-at="2018-02-18T20:19:12Z">
+    <test name="Test" duration-ms="8003" started-at="2018-02-18T21:36:11Z" finished-at="2018-02-18T21:36:19Z">
       <class name="test.Selenium_Jenkins_Integration">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:test.Selenium_Jenkins_Integration@724af044]" name="setUp" is-config="true" duration-ms="5195" started-at="2018-02-18T20:19:04Z" finished-at="2018-02-18T20:19:09Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.Selenium_Jenkins_Integration@6b4a4e18]" name="setUp" is-config="true" duration-ms="4992" started-at="2018-02-18T21:36:11Z" finished-at="2018-02-18T21:36:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test()[pri:0, instance:test.Selenium_Jenkins_Integration@724af044]" name="test" duration-ms="2079" started-at="2018-02-18T20:19:09Z" finished-at="2018-02-18T20:19:11Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:test.Selenium_Jenkins_Integration@6b4a4e18]" name="test" duration-ms="2200" started-at="2018-02-18T21:36:16Z" finished-at="2018-02-18T21:36:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.Selenium_Jenkins_Integration@724af044]" name="tearDown" is-config="true" duration-ms="771" started-at="2018-02-18T20:19:11Z" finished-at="2018-02-18T20:19:12Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.Selenium_Jenkins_Integration@6b4a4e18]" name="tearDown" is-config="true" duration-ms="788" started-at="2018-02-18T21:36:19Z" finished-at="2018-02-18T21:36:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- test.Selenium_Jenkins_Integration -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
